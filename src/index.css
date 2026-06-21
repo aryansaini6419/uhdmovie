@@ -2,10 +2,24 @@
 
 @font-face {
   font-family: ops;
- src: url(./fonts/Black_Ops_One/BlackOpsOne-Regular.ttf);
+ src: url(./fonts/Smooch_sans);
 }
 body {
-  background-color: #1b1b1e;
+  background-color: #303035;
   font-family: ops;
 }   
 
+.mt-1{
+
+  margin-top: 10vh;
+}
+
+.ml-1{
+
+  margin-left: 8vw;
+}
+
+mr-1{
+
+  mrargin-right: 8vw;
+}

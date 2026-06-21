@@ -1,39 +1,24 @@
 import React from 'react'
 
-const Entry = () => {
+const Entery = () => {
   return (
     <div>
-        <header>
 
-            <div className="logo h-[20vh] w-full border-2 p-3 border-red-500 flex">
-                <div className="img flex h-[15vh] w-full  ">
-                     <img className='imgage border-2 rounded-2xl'  src="././src/assets/logo.png" alt="logo" />
-                </div>
-               
+      <div className="header flex justify-between">
+        <div className="logo h-[15vh] w-[15vw] mt-[10vh] ml-[8vw]">
+          <img  className="border-2 rounded-3xl"src="./src/assets/logo.png" alt="Logo" />
+        </div>
 
-            </div>
+<div className="login  border-2   bg-blue-500 rounded-3xl h-[9vh] w-[10vw] mt-1 mr-[8vw] flex justify-center items-center">
 
-        </header>
-
-        <main>
-
-<div className="container">
-
-
-
+    <div className="button ">
+      Visit Site
+    </div>
 </div>
 
-
-        </main>
-
-        <footer>
-            
-            
-            </footer>        
-
-
+      </div>
     </div>
   )
 }
 
-export default Entry
+export default Entery
