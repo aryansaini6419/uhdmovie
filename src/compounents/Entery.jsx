@@ -14,6 +14,12 @@ const Entery = () => {
     <div className="button ">
       Visit Site
     </div>
+
+
+</div>
+
+<div className="heading">
+    <h1 className='text-5xl font-bold text-center mt-[10vh]'>Welcome to our website!</h1>
 </div>
 
       </div>
