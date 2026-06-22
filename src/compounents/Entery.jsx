@@ -20,6 +20,30 @@ const Entery = () => {
 
 <div className="heading">
     <h1 className='text-5xl font-bold text-center mt-[10vh]'>Welcome to our website!</h1>
+
+</div>
+
+<div className="tags">
+  <h1>
+    download now
+
+  </h1>
+
+    <h1>
+    4k quality
+    
+  </h1>
+
+    <h1>
+    latest movies
+    
+  </h1>
+
+    <h1>
+    24/7 support
+    
+  </h1>
+
 </div>
 
       </div>
