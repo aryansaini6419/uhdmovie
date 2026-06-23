@@ -67,6 +67,36 @@ const Entery = () => {
   <h1 className='box-2 font-bold text-2xl'> Action</h1>
   </div>
 
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+
 
 </div>
 
