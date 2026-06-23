@@ -60,16 +60,12 @@ const Entery = () => {
 
 
 <div className="category  gap-6 mt-10 ml-1 text-white text-2xl">
-  <div className="text-2 flex align-items-center items-center justify-center">
+ 
+  <div className="text-2 flex align-items-center items-center justify-center mb-10">
     <h1 className='font font-bold text-2xl'> Categories</h1>
   </div>
-  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
-  <h1 className='box-2 font-bold text-2xl'> Action</h1>
-  </div>
 
-  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
-  <h1 className='box-2 font-bold text-2xl'> Action</h1>
-  </div>
+   <div className="flex flex-wrap gap-4 justify-center   w-[90vw]">
 
 
   <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
@@ -92,11 +88,16 @@ const Entery = () => {
   </div>
 
 
-
   <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
   <h1 className='box-2 font-bold text-2xl'> Action</h1>
   </div>
 
+
+
+  <div className="box  flex align-items-center items-center justify-center border-2 rounded-3xl h-[40vh] blur-box bg-gray-80 w-[25vw]">  
+  <h1 className='box-2 font-bold text-2xl'> Action</h1>
+  </div>
+</div>
 
 </div>
 
